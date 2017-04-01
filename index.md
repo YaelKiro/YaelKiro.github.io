@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+## Yael Kiro Feldman
+### Associate Research Scientist
+### Lamont-Doherty Earth Observatory
+### Geochemistry
+
+
+
+I am a low-temperature geochemist focused on the study and characterization of physical processes in marine, terrestrial, and atmospheric domains. In my research I apply various geochemical tools and proxies such as trace elements, radiogenic isotopes, and stable isotopes combined with analytical and numerical modeling to understand water–sediment interaction, water flow mechanisms, and paleoclimate. My scientific approach is driven by my interest in understanding the driving forces of physical and geochemical processes. I am particularly interested in dating and quantifying seawater circulation in aquifers, groundwater flow, and rates of water–rock interactions, and I specialize in the geochemistry of evaporites and water and salts budgets in lakes. My main achievements have included identifying density-driven circulation in the Dead Sea aquifer, which is a fundamental process in coastal aquifers; quantifying its magnitude, and showing that it is significant to elemental budgets. My recent interests include the climate during the last interglacial and quantitative methods for paleoclimate reconstruction based on terrestrial records. I’m interested in combining paleoclimatological records with climate models.
+
 
 You can use the [editor on GitHub](https://github.com/YaelKiro/YaelKiro.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
